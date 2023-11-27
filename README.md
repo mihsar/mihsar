@@ -1,7 +1,5 @@
 ### Hi there! 👋
 
-I'm Mihai, a Software Developer.
-
 <!--
 **mihsar/mihsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,8 +19,6 @@ Here are some ideas to get you started:
     coming soon...
 </details>
 -->
-
-#### Skills
 
 <div class="ms-skills">
 <img src="https://unpkg.com/simple-icons@10.0.0/icons/php.svg" alt="php skill" class="ms-skill php" title="PHP" height="40" color="#777BB4"/>
